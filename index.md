@@ -1,3 +1,7 @@
+Below you'll find useful tips on editing your pages on GitHub.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kenleysmel/kenleysmel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
