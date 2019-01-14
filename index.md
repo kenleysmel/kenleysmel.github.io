@@ -1,3 +1,5 @@
+## Purpose
+
 Below you'll find useful tips on editing your pages on GitHub.
 
 
